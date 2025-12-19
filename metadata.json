@@ -1,0 +1,8 @@
+{
+  "name": "Linux Coach AI",
+  "description": "A comprehensive guide and AI coach for Linux enthusiasts and newcomers, featuring a distro catalog, app switcher, terminal dojo, and intelligent CLI assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
